@@ -119,7 +119,7 @@ Output:
 | 20 | Exit                            | -           |
 
 ---
-[!screenshot](https://i.postimg.cc/zfnYCMVS/1000260035.jpg)
+[screenshot](https://i.postimg.cc/zfnYCMVS/1000260035.jpg)
 
 ## ⚠️ Disclaimer
 
@@ -129,7 +129,7 @@ Do **not** use it for stealing or malicious activities — that is illegal.
 
 ---
 
-✍️ Developer: [!BLACK ZERO](https://black-zero.vercel.app/)
+✍️ Developer: [BLACK ZERO](https://black-zero.vercel.app/)
 
 👥 Team: **BANGLADESH Cyber Squad**
 
