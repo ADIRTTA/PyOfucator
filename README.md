@@ -1,5 +1,6 @@
 <p align="center">                                                                       
- <img src="https://i.postimg.cc/ncnQbbvg/1000260033.jpg" width="600"/>                  </p>                                                                                                                                                                            <h1 align="center">🐍 PyOfucator </h1>                            <p align="center">                                                                        🇧🇩 Developed by <b>BLACK ZERO</b><br>                                                                   📆 Year: 2025                                                                         </p>
+ <img src="https://i.postimg.cc/ncnQbbvg/1000260033.jpg" width="600"/>         
+</p>                                                                                                                         <h1 align="center">🐍 PyOfucator </h1>                            <p align="center">                                         🇧🇩 Developed by <b>BLACK ZERO</b><br>                                                                   📆 Year: 2025                                                                         </p>
 
 
 **PyOfucator** is a Python **code obfuscation tool** that encrypts and hides your Python scripts using multiple encoding techniques.
@@ -118,6 +119,7 @@ Output:
 | 20 | Exit                            | -           |
 
 ---
+[!screenshot](https://i.postimg.cc/zfnYCMVS/1000260035.jpg)
 
 ## ⚠️ Disclaimer
 
@@ -127,9 +129,9 @@ Do **not** use it for stealing or malicious activities — that is illegal.
 
 ---
 
-✍️ Developer: **BLACK ZERO**
+✍️ Developer: [!BLACK ZERO](https://black-zero.vercel.app/)
+
 👥 Team: **BANGLADESH Cyber Squad**
 
 ---
 
-👉 Do you also want me to add a **Project Structure (Tree Chart)** section at the end of this README? That way it’ll look like a complete GitHub-ready documentation.
