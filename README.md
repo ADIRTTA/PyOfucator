@@ -119,7 +119,7 @@ Output:
 | 20 | Exit                            | -           |
 
 ---
-[screenshot](https://i.postimg.cc/zfnYCMVS/1000260035.jpg)
+![screenshot](https://i.postimg.cc/zfnYCMVS/1000260035.jpg)
 
 ## ⚠️ Disclaimer
 
