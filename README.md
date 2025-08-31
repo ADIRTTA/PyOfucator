@@ -1,7 +1,6 @@
 <p align="center">                                                                       
  <img src="https://i.postimg.cc/ncnQbbvg/1000260033.jpg" width="600"/>                  </p>                                                                                                                                                                            <h1 align="center">🐍 PyOfucator </h1>                            <p align="center">                                                                        🇧🇩 Developed by <b>BLACK ZERO</b><br>                                                                   📆 Year: 2025                                                                         </p>
 
-# PyOfucator 🔐
 
 **PyOfucator** is a Python **code obfuscation tool** that encrypts and hides your Python scripts using multiple encoding techniques.
 This makes reverse engineering your code much harder.
@@ -49,9 +48,22 @@ pip install rich pyfiglet
 Run:
 
 ```bash
-
+pkg update && pkg upgrade
+pkg install git -y
+pkg install python -y
+pkg install python3 -y
+pip install pyfiglet
+pip install rich 
+termux-setup-storage -y
+git clone https://github.com/ADIRTTA/PyOfucator.git
+cd PyOfucator
+chmod +x *
+python3 pyofucator.py
 ```
-
+For Just Python (not python3) use :
+```bash
+python pyofucator.py
+```
 ### Steps:
 
 1. Banner and **Main Menu** will appear.
