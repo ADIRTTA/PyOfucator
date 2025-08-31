@@ -119,6 +119,7 @@ Output:
 | 20 | Exit                            | -           |
 
 ---
+## 📷 TOOL PICTURE
 ![screenshot](https://i.postimg.cc/zfnYCMVS/1000260035.jpg)
 
 ## ⚠️ Disclaimer
